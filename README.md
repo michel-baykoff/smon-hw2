@@ -70,5 +70,5 @@
  ---
  
 ### Решение 4
-![dashboard](img/smon7.png)
+![dashboard](img/smon8.png)
 
